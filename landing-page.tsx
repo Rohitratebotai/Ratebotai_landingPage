@@ -312,7 +312,15 @@ export default function RateBotLanding() {
           <div className="flex items-center justify-center mb-4">
             <Image src="/ratebotai-logo.png" alt="RateBotAi" width={200} height={50} className="h-8 w-auto" />
           </div>
-          <p className="text-gray-400">© 2024 RateBotAi. All rights reserved. Built by IIT Bombay team.</p>
+          <div>
+            <p className="text-gray-400">
+              © {new Date().getFullYear()} RateBotAi. All rights reserved. Built by IIT Bombay team.
+            </p>
+            <div className="text-gray-400 mt-4 space-x-4">
+              <a href="https://ratebotai.com/terms-and-condition">Terms and Condition</a>
+              <a href="https://ratebotai.com/privacy-policy">Privacy Policy</a>
+            </div>
+          </div>
         </div>
       </footer>
     </div>
