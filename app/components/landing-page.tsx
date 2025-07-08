@@ -270,7 +270,7 @@ export default function RateBotLanding() {
               <blockquote className="text-lg text-gray-300 mb-4">
                 "Since switching to direct bookings, my profits have increased by 30%"
               </blockquote>
-              <p className="text-sm text-gray-500">- Hoteliers Testimonial</p>
+              <p className="text-sm text-gray-500">- RMS Hotels</p>
             </Card>
 
             <Card className="p-6 bg-gray-700 border-gray-600 hover:border-purple-500/50 transition-colors">
@@ -282,7 +282,7 @@ export default function RateBotLanding() {
               <blockquote className="text-lg text-gray-300 mb-4">
                 "No more paying OTAs! The system is easy & saves so much time."
               </blockquote>
-              <p className="text-sm text-gray-500">- Hoteliers Testimonial</p>
+              <p className="text-sm text-gray-500">- KPM Lodge</p>
             </Card>
           </div>
         </div>
